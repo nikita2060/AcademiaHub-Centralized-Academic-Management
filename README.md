@@ -30,7 +30,7 @@ This is a Node.js-based school management system with role-based authentication 
 
 2. Install dependencies:
    ```sh
-   npm install --legacy-peer-dep
+   npm install --legacy-peer-deps
    ```
 
 3. Set up environment variables:
