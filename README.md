@@ -1,4 +1,4 @@
-# School Management System API
+# AcademiaHub – Centralized Academic Management
 
 This is a Node.js-based school management system with role-based authentication using Express, MongoDB, and JWT.
 
